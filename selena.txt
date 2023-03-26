@@ -1,0 +1,36 @@
+SELENA (http://paul-themes.com/html/selena/demo/about.html)
+
+padding : 50 px (atas bawah) 20 px (kiri kanan)
+background-attachment: fixed;
+  display: inline-block; (child class)
+
+biar tidak menumpuk 
+
+*Parent class (Position : relative;)
+* child class 
+position : absolute;
+left:0;
+top:0;
+
+Outline (luar kotak )
+
+letter-spacing: 0-10
+
+rem (ukuran default browser 1 rem = 16 px, biasanya untuk text)
+em (mengikuti aturan parent )
+
+trik 
+*jika lebar gambarnya melebihi, atur img di css width 100% 
+*a:not(a:last-of-type) Pemilihan a pertama jika ada 2 dan 
+mengatur posisi nya untuk a pertama, bisa juga langsung di atur di dlm html.
+
+JS
+getElementsByClassName.
+getElemetyById()
+
+querySelector("satu")
+querySelector("All")
+
+
+
+Consol.log (Ctrl+shift+i)
